@@ -61,6 +61,8 @@ body{
     border-radius: 4px;
     font-size: 14px;
     padding: 7px 40px;
+    transition: ease-in-out;
+    transition: 2s;
 }
 .login-button{
     background-color: rgb(229, 9, 20);
@@ -70,6 +72,9 @@ body{
     font-size: 14px;
     font-weight: bold;
     padding: 7px 20px;
+}
+.login-button:hover, .content-button:hover{
+    background-color: #C11119;
 }
 .title{
     font-size: 55px;
@@ -101,6 +106,10 @@ body{
     color: white;
     border: 1.5px solid #3bd198;
     border-radius: 4px;
+}
+.content-input:focus{
+    outline: none;
+    border: 2px solid lightgray;
 }
 .content-button{
     background-color: rgb(229, 9, 20);
