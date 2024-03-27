@@ -157,7 +157,7 @@ body{
 .sub-heading{
     font-size: 22px;
 }
-section{
+.first-section{
     border-bottom: 6px solid #eeeeee3f;
 }
 
@@ -261,4 +261,32 @@ section{
 }
 .email-width{
     width: 690px;
+}
+
+.queries-container{
+    color: white;
+    margin: 0px 180px;
+    /* margin-bottom: 200px; */
+}
+.phone{
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration-color: rgba(255, 255, 255, 0.7);
+}
+.list-container{
+    width: 920px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.list-element{
+    color: rgba(255,255,255,0.7);
+}
+.net-india{
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 50px;
+}
+ul > li{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
 }
