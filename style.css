@@ -284,9 +284,11 @@ body{
 .net-india{
     color: rgba(255, 255, 255, 0.7);
     margin-top: 50px;
+    font-weight: bold;
+    margin-bottom: 100px;
 }
 ul > li{
     font-size: 15px;
-    font-weight: bold;
+    /* font-weight: bolder; */
     margin-top: 15px;
 }
