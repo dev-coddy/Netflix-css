@@ -1785,16 +1785,17 @@ body{
         margin-left: -140px;
     }
     .real-tv{
-        width:  400px;
+        width:  300px;
         position: relative;
+        margin-left: 0px auto;
     }
     .tv-frame{
         width: 100%;
         position: relative;
     }
     .tv-vid{
-        margin-left: 52.5px;
-        margin-top: 55px;
+        margin-left: 39px;
+        margin-top: 46px;
         width: 80%;
         position: absolute;
     }
