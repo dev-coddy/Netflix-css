@@ -1297,6 +1297,9 @@ body{
 }
 
 @media (max-width: 599.9px){
+    body{
+        overflow-x: hidden;
+    }
     .hero{
         width: 100%;
         height: 100vh;
