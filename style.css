@@ -1444,7 +1444,7 @@ body{
         border-radius: 4px;
     }
     .container{
-        /* background-color: #eeeeee34; */
+        background-color: #eeeeee34;
         color: white;
         display: flex;
         flex-direction: column;
@@ -1464,7 +1464,7 @@ body{
     }
     .real-tv{
         margin: auto;
-        width:  390px;
+        width:  370px;
         position: relative;
         overflow-x: hidden;
     }
