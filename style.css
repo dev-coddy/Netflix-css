@@ -1444,7 +1444,7 @@ body{
         border-radius: 4px;
     }
     .container{
-        background-color: #eeeeee34;
+        /* background-color: #eeeeee34; */
         color: white;
         display: flex;
         flex-direction: column;
