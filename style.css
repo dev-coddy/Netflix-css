@@ -1429,36 +1429,37 @@ body{
         border-radius: 4px;
     }
     .container{
-        /* background-color: #eeeeee34; */
+        background-color: #eeeeee34;
         color: white;
         display: flex;
         flex-direction: column;
         text-align: center;
         align-items: center;
         gap: 0px;
-        width: 90vw;
-        margin: 0px auto;
+        width: 100vw;
+        /* margin: 0px auto; */
         padding: 10px;
     }
     .left{
-        width: 70%;
+        width: 80%;
     }
     .right{
+        /* margin: auto; */
         width: 100%;
     }
     .real-tv{
         margin: auto;
-        width:  400px;
+        width:  390px;
         position: relative;
     }
     .tv-frame{
-        width: 100%;
+        width: 65%;
         position: relative;
     }
     .tv-vid{
-        margin-left: 52.5px;
-        margin-top: 55px;
-        width: 80%;
+        margin-left: 36px;
+        margin-top: 36px;
+        width: 50%;
         position: absolute;
     }
     .heading{
