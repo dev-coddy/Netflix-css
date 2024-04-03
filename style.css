@@ -15,6 +15,9 @@ body{
 
 /* bigger screen */
 @media (min-width: 1285.7px){
+    body{
+        overflow-x: hidden;
+    }
     .hero{
         width: 100%;
         height: 100vh;
@@ -323,6 +326,9 @@ body{
 
 /* medium screen */
 @media (min-width: 1278.1px) and (max-width: 1285.6px){
+    body{
+        overflow-x: hidden;
+    }
     .hero{
         width: 100%;
         height: 100vh;
@@ -643,6 +649,9 @@ body{
 }
 
 @media(min-width: 959px) and (max-width: 1278px){
+    body{
+        overflow-x: hidden;
+    }
     .hero{
         width: 100%;
         height: 100vh;
@@ -967,6 +976,9 @@ body{
 }
 
 @media (min-width: 600px) and (max-width: 959px){
+    body{
+        overflow-x: hidden;
+    }
     .hero{
         width: 100%;
         height: 100vh;
