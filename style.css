@@ -1533,7 +1533,7 @@ body{
     
     .card-container{
         /* background-color: #eeeeee3f; */
-        width: 1200px;
+        /* width: 1200px; */
         margin: 0px auto;
         display: flex;
         flex-direction: column;
